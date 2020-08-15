@@ -14,5 +14,8 @@
 
 :beginner: Programming beginner at 40 years old
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/adailtonmelo?label=Follow&style=social">
+
+
 
 
